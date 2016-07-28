@@ -1,0 +1,10 @@
+Package: com.halston696.nolinesnc
+Name: No Lines NC
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: hides some of the separators in NotificationCenter
+Maintainer: Wylliam Altman <halston696@gmail.com>
+Author: Wylliam Altman <halston696@gmail.com>
+Section: Tweaks
+Dev: halston696
